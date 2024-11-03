@@ -3285,7 +3285,7 @@
     ]
   },
   {
-    "id": "nf-snowflake",
+    "id": "nf-select",
     "releases": [
       {
         "version": "0.0.1",
