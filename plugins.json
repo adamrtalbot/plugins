@@ -3290,7 +3290,7 @@
       {
         "version": "0.0.1",
         "date": "2024-11-03T20:44:39.419284Z",
-        "url": "https://github.com/adamrtalbot/nf-select/archive/refs/tags/0.0.1.zip",
+        "url": "https://github.com/adamrtalbot/nf-select/releases/download/0.0.1/nf-select-0.0.1.zip",
         "requires": ">=22.10.0",
         "sha512sum": "b0cd804a7a0f7bb71ba790e527a3a31b04a0b8d76490f4f4b1aa430efaf5b14a31273c159f3fd1b663817fe891fbcbdc1f0b6050acffb2c9a80f0b61457fb293"
       }
